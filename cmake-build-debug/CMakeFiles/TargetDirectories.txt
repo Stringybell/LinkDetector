@@ -1,0 +1,3 @@
+/Users/christianmartinpileri/Projects/Personal/LinkDetector/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/christianmartinpileri/Projects/Personal/LinkDetector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/christianmartinpileri/Projects/Personal/LinkDetector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
