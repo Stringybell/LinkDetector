@@ -1,4 +1,3 @@
-Got it! Below is your updated README and the code files with `main.cpp` serving as an example and `linkdetector.h` containing the actual library:
 
 ---
 
