@@ -214,6 +214,15 @@ CMAKE_TAPI:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeD
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+LinkDetector_BINARY_DIR:STATIC=/Users/christianmartinpileri/Projects/Personal/LinkDetector/cmake-build-debug
+
+//Value Computed by CMake
+LinkDetector_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+LinkDetector_SOURCE_DIR:STATIC=/Users/christianmartinpileri/Projects/Personal/LinkDetector
+
+//Value Computed by CMake
 untitled_BINARY_DIR:STATIC=/Users/christianmartinpileri/Projects/Personal/LinkDetector/cmake-build-debug
 
 //Value Computed by CMake
